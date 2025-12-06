@@ -10,4 +10,4 @@
    ### Se adjunta el Manual de Protocolo
    [[Infome Precios comparados y Recomendaciones]( https://docs.google.com/document/d/1In0kx5vIqxcRIBD8HjwZshQFtuVcSALFPxB-RQ3jkhk/edit?tab=t.0#heading=h.f0f41ddn4spf)]
    ### Presentaciones armadas
-   [[Presentaciones sobre Precios comparados y Recomendaciones](https://gamma.app/docs/Navidad-2025-Inteligencia-de-Compra-en-la-Frontera-9pse0pbx0cvjdcs?mode=doc)]
+   [[Presentaciones sobre Precios comparados y Recomendaciones](https://gamma.app/docs/Navidad-2025-Inteligencia-de-Compra-en-la-Frontera-9pse0pbx0cvjdcs)]
